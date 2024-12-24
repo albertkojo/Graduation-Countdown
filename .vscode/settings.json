@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./pyinstaller/PyInstaller/hooks/hook-",
+        "./pyinstaller/PyInstaller/hooks/hook-"
+    ]
+}
